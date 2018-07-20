@@ -13,6 +13,6 @@ Ketik , pkg install git
 
 Ketik , git clone https://github.com/sugiode/ig_fft
 
-Ketik , cd ig
+Ketik , cd ig_fft
 
 Ketik , node fftauto.js #CMIIW
