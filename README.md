@@ -7,7 +7,8 @@ Ketik , pkg install nodejs
 
 Ketik , npm install
 
-Ketik , npm install instagram-private-api
+Ketik , npm install
+npm install https://github.com/huttarichard/instagram-private-api
 
 Ketik , pkg install git
 
